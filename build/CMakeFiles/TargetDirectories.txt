@@ -1,0 +1,3 @@
+/home/okarin/Desktop/opengl_task3/build/CMakeFiles/rebuild_cache.dir
+/home/okarin/Desktop/opengl_task3/build/CMakeFiles/main.dir
+/home/okarin/Desktop/opengl_task3/build/CMakeFiles/edit_cache.dir
